@@ -46,7 +46,7 @@ Overall, it got me used to working with git, pushing it to GitHub and setting up
 
 In future projects I would like to focus more on responsives designs as I don't have much experience with flexbox and grid yet. 
 
-Furthermore, I would like to learn more about how to make my work more accessible to different kind of users who may have disabilities. 
+Furthermore, I would like to learn more about how to make my work accessible to different kind of users who may have disabilities. 
 
 ### Useful resources
 
