@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KaiWenzel/qr-code-component)
-- Live Site URL: [Add live site URL here](https://kaiwenzel.github.io/qr-code-component/)
+- Solution URL: [https://github.com/KaiWenzel/qr-code-component](https://github.com/KaiWenzel/qr-code-component)
+- Live Site URL: [https://kaiwenzel.github.io/qr-code-component/](https://kaiwenzel.github.io/qr-code-component/)
 
 ## My process
 
@@ -55,5 +55,5 @@ Furthermore, I would like to learn more about how to make my work more accessibl
 
 ## Author
 
-- Website - [Kai Wenzel](No official website yet)
+- Website - No official website yet
 - Frontend Mentor - [@KaiWenzel](https://www.frontendmentor.io/profile/KaiWenzel)
