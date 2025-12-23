@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Using flexbox it's really easy to create cards that are centered responsively. Also, you'll need to include relative paths instead of absolute paths for GitHub to find a linked file. 
+Using flexbox, it's really easy to create cards that are centered responsively. Also, you'll need to include relative paths instead of absolute paths for GitHub to find a linked file. 
 
 It's also sometimes hard to judge how close you came to the original design. Especially for the shadow of the card you'll need to judge by eye if it fits or not. 
 
